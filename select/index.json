@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Starry Sky (2021 Remaster)",
+  "base_artist": "capsule",
+  "createdAt": "2026-03-09T14:49:21.911972Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Starry Sky",
+      "artist": "Mehdi",
+      "has_synced": false,
+      "path": "select/01_Starry_Sky_Mehdi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Starry Sky",
+      "artist": "GFRIEND",
+      "has_synced": true,
+      "path": "select/02_A_Starry_Sky_GFRIEND.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Starry Sky",
+      "artist": "ASTRO",
+      "has_synced": true,
+      "path": "select/03_Starry_Sky_ASTRO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Starry Sky",
+      "artist": "GFriend",
+      "has_synced": true,
+      "path": "select/04_A_Starry_Sky_GFriend.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "STARRY SKY",
+      "artist": "Passcode",
+      "has_synced": true,
+      "path": "select/05_STARRY_SKY_Passcode.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "STARRY SKY",
+      "artist": "PassCode",
+      "has_synced": true,
+      "path": "select/06_STARRY_SKY_PassCode.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Starry Sky",
+      "artist": "여자친구",
+      "has_synced": true,
+      "path": "select/07_A_Starry_Sky_여자친구.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Starry sky parade",
+      "artist": "Nanahira/Mega",
+      "has_synced": true,
+      "path": "select/08_Starry_sky_parade_Nanahira_Mega.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "數不盡的星空 - Lonely Starry Sky",
+      "artist": "Tseng Pei Tsz",
+      "has_synced": true,
+      "path": "select/09_數不盡的星空_-_Lonely_Starry_Sky_Tseng_Pei_Tsz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Starry Night",
+      "artist": "Laika",
+      "has_synced": false,
+      "path": "select/10_Starry_Night_Laika.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Starry Nowhere",
+      "artist": "The Monochrome Set",
+      "has_synced": true,
+      "path": "select/11_Starry_Nowhere_The_Monochrome_Set.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It's a Very Starry Night",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/12_It's_a_Very_Starry_Night_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Starry Stairs",
+      "artist": "Okkervil River",
+      "has_synced": false,
+      "path": "select/13_Starry_Stairs_Okkervil_River.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Starry Eyes",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/14_Starry_Eyes_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Freak Out/Starry Eyes",
+      "artist": "LCD Soundsystem",
+      "has_synced": true,
+      "path": "select/15_Freak_Out_Starry_Eyes_LCD_Soundsystem.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Starry Eyed",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/16_Starry_Eyed_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Beneath the Starry Skies",
+      "artist": "Therion",
+      "has_synced": true,
+      "path": "select/17_Beneath_the_Starry_Skies_Therion.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Starry Eyes",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/18_Starry_Eyes_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Starry Eyed Surprise",
+      "artist": "Paul Oakenfold",
+      "has_synced": false,
+      "path": "select/19_Starry_Eyed_Surprise_Paul_Oakenfold.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Starry Night",
+      "artist": "Iggy Pop",
+      "has_synced": true,
+      "path": "select/20_Starry_Night_Iggy_Pop.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Starry Eyes",
+      "artist": "Cigarettes After Sex",
+      "has_synced": true,
+      "path": "select/21_Starry_Eyes_Cigarettes_After_Sex.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "A Starry Night in Apollo Bay",
+      "artist": "Rini",
+      "has_synced": true,
+      "path": "select/22_A_Starry_Night_in_Apollo_Bay_Rini.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Vincent (Starry Starry Night)",
+      "artist": "Julio Iglesias",
+      "has_synced": true,
+      "path": "select/23_Vincent_(Starry_Starry_Night)_Julio_Iglesias.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Starry Sky",
+      "artist": "CAPSULE",
+      "has_synced": false,
+      "path": "select/pl_01_Starry_Sky_CAPSULE.txt"
+    }
+  ]
+}
